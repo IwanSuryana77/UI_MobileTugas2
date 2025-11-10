@@ -6,7 +6,7 @@ Nim     : 232101190
 
 ## Tampilan Splash Screen
 
-  <img width="298" height="555" alt="image" src="https://github.com/user-attachments/assets/95b1ee44-bdee-4d79-a976-1cfba3e09797" />
+  <img width="296" height="551" alt="image" src="https://github.com/user-attachments/assets/e68a0bb1-6b85-4278-a244-77690b4e9dc5" />
 
   ## 🚀 **Home Splash Screen**
 
@@ -24,7 +24,9 @@ Nim     : 232101190
 ---
 ## Tampiln Home Screen
 
-<img width="296" height="545" alt="image" src="https://github.com/user-attachments/assets/294a38ed-3f87-4860-b7b5-c132ecfd48a9" />  <img width="297" height="537" alt="image" src="https://github.com/user-attachments/assets/9d93958d-b5f6-4e82-a8be-05985771b4b1" />
+<img width="304" height="531" alt="image" src="https://github.com/user-attachments/assets/5f5de6d1-a191-44f4-a45e-0e9a09289d3d" />
+ <img width="293" height="537" alt="image" src="https://github.com/user-attachments/assets/179bb96e-0c2c-4a73-af46-f32c9e39a650" />
+
 
 ## 🚀 **Fitur Heome Screen**
 - Header dengan foto latar bergaya *banking UI*.
