@@ -8,7 +8,7 @@ Nim     : 232101190
 
   <img width="296" height="551" alt="image" src="https://github.com/user-attachments/assets/e68a0bb1-6b85-4278-a244-77690b4e9dc5" />
 
-  ## 🚀 **Home Splash Screen**
+  ## 🚀 **Fitur Splash Screen**
 
   - 🎬 **Splash Screen Animatif**
     - Logo muncul dengan efek *zoom in* dan *fade in*.
