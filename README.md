@@ -8,7 +8,7 @@ Nim     : 232101190
 
   <img width="298" height="555" alt="image" src="https://github.com/user-attachments/assets/95b1ee44-bdee-4d79-a976-1cfba3e09797" />
 
-  ## 🚀 Fitur Utama
+  ## 🚀 **Home Splash Screen**
 
 - 🎬 **Splash Screen Animatif**
   - Logo muncul dengan efek *zoom in* dan *fade in*.
@@ -26,7 +26,7 @@ Nim     : 232101190
 
 <img width="296" height="545" alt="image" src="https://github.com/user-attachments/assets/294a38ed-3f87-4860-b7b5-c132ecfd48a9" />  <img width="297" height="537" alt="image" src="https://github.com/user-attachments/assets/9d93958d-b5f6-4e82-a8be-05985771b4b1" />
 
-🏠 **Home Screen Modern**
+🏠 **Home Screen**
 - Header dengan foto latar bergaya *banking UI*.
 - Kartu debit interaktif dengan tampilan elegan.
 - Grid menu fungsional seperti *Transfer, Payment, Info,* dan lainnya.
@@ -34,7 +34,7 @@ Nim     : 232101190
 
 ---
 
-## 🚀 Fitur Utama
+## 🚀 Fitur Utama heome Screen
 
 | Fitur | Deskripsi |
 |-------|------------|
