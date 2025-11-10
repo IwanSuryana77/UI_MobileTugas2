@@ -50,7 +50,6 @@
    <img width="602" height="279" alt="image" src="https://github.com/user-attachments/assets/12bab8cc-a9d2-4648-8c48-ba7f12175b4a" />
 
 
-A new Flutter project.
 
 ## Getting Started
 
