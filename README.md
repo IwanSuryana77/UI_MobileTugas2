@@ -44,13 +44,14 @@ Nim     : 232101190
 ---
 
 ## 🧠 **Struktur Proyek**
-   <img width="275" height="276" alt="image" src="https://github.com/user-attachments/assets/6181c8a6-f0c3-4e3e-ab76-308414f72620" />
+   <img width="305" height="271" alt="image" src="https://github.com/user-attachments/assets/5e3c9db3-1f5f-4dd0-965d-a53ebbfcf8c1" />
+
    
-   <img width="289" height="151" alt="image" src="https://github.com/user-attachments/assets/d131268a-0912-4ff6-8cac-9e4d240ce178" />
+   <img width="304" height="159" alt="image" src="https://github.com/user-attachments/assets/a18018e5-77f5-4aae-9522-16f4796b8600" />
 
    Pubspace.yml
    
-   <img width="602" height="279" alt="image" src="https://github.com/user-attachments/assets/12bab8cc-a9d2-4648-8c48-ba7f12175b4a" />
+<img width="603" height="277" alt="image" src="https://github.com/user-attachments/assets/d207ef99-8179-41a5-b14d-db654b30f481" />
 
 
 
