@@ -1,4 +1,8 @@
+
 # finnanceapp
+Nama    : Iwan Suryana
+Nim     : 232101190  
+
 ## Tampilan Splash Screen
 
   <img width="298" height="555" alt="image" src="https://github.com/user-attachments/assets/95b1ee44-bdee-4d79-a976-1cfba3e09797" />
