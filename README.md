@@ -1,6 +1,7 @@
 
 # finnanceapp
 Nama    : Iwan Suryana
+
 Nim     : 232101190  
 
 ## Tampilan Splash Screen
