@@ -26,15 +26,11 @@ Nim     : 232101190
 
 <img width="296" height="545" alt="image" src="https://github.com/user-attachments/assets/294a38ed-3f87-4860-b7b5-c132ecfd48a9" />  <img width="297" height="537" alt="image" src="https://github.com/user-attachments/assets/9d93958d-b5f6-4e82-a8be-05985771b4b1" />
 
-🏠 **Home Screen**
+## 🚀 **Fitur Heome Screen**
 - Header dengan foto latar bergaya *banking UI*.
 - Kartu debit interaktif dengan tampilan elegan.
 - Grid menu fungsional seperti *Transfer, Payment, Info,* dan lainnya.
 - Daftar transaksi keuangan dengan ikon dan warna kategori.
-
----
-
-## 🚀 Fitur Utama heome Screen
 
 | Fitur | Deskripsi |
 |-------|------------|
@@ -45,7 +41,7 @@ Nim     : 232101190
 
 ---
 
-## 🧠 Struktur Proyek
+## 🧠 **Struktur Proyek**
    <img width="275" height="276" alt="image" src="https://github.com/user-attachments/assets/6181c8a6-f0c3-4e3e-ab76-308414f72620" />
    
    <img width="289" height="151" alt="image" src="https://github.com/user-attachments/assets/d131268a-0912-4ff6-8cac-9e4d240ce178" />
