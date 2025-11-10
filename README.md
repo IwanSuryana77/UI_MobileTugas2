@@ -10,14 +10,14 @@ Nim     : 232101190
 
   ## 🚀 **Home Splash Screen**
 
-  🎬 **Splash Screen Animatif**
+  - 🎬 **Splash Screen Animatif**
     - Logo muncul dengan efek *zoom in* dan *fade in*.
     - Teks “FinanceApp” muncul huruf demi huruf dengan efek halus.
-  🏠 **Navigasi Otomatis ke Home Screen**
+  - 🏠 **Navigasi Otomatis ke Home Screen**
     - Setelah 4 detik, aplikasi berpindah otomatis ke `HomeScreen`.
-  🎨 **Desain Gradien Modern**
+  - 🎨 **Desain Gradien Modern**
     - Latar belakang menggunakan kombinasi warna biru muda dengan efek gradasi lembut.
-  ⚡ **Animasi Lembut**
+  - ⚡ **Animasi Lembut**
     - Menggunakan `AnimationController`, `FadeTransition`, dan `ScaleTransition`.
 
 
