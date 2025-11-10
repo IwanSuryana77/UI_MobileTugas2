@@ -45,7 +45,6 @@ Nim     : 232101190
 
 ## 🧠 **Struktur Proyek**
    <img width="305" height="271" alt="image" src="https://github.com/user-attachments/assets/5e3c9db3-1f5f-4dd0-965d-a53ebbfcf8c1" />
-
    
    <img width="304" height="159" alt="image" src="https://github.com/user-attachments/assets/a18018e5-77f5-4aae-9522-16f4796b8600" />
 
