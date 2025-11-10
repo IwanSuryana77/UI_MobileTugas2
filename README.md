@@ -28,7 +28,7 @@ Nim     : 232101190
  <img width="293" height="537" alt="image" src="https://github.com/user-attachments/assets/179bb96e-0c2c-4a73-af46-f32c9e39a650" />
 
 
-## 🚀 **Fitur Heome Screen**
+## 🚀 **Fitur Home Screen**
 - Header dengan foto latar bergaya *banking UI*.
 - Kartu debit interaktif dengan tampilan elegan.
 - Grid menu fungsional seperti *Transfer, Payment, Info,* dan lainnya.
