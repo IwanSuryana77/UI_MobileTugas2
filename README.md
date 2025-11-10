@@ -22,7 +22,7 @@ Nim     : 232101190
 
 
 ---
-## 🏠 Tampiln Home Screen
+## 🏠 Tampilan Home Screen
 
 <img width="304" height="531" alt="image" src="https://github.com/user-attachments/assets/5f5de6d1-a191-44f4-a45e-0e9a09289d3d" />
  <img width="293" height="537" alt="image" src="https://github.com/user-attachments/assets/179bb96e-0c2c-4a73-af46-f32c9e39a650" />
